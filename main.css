@@ -4,7 +4,7 @@ body {
 #nav-bar {
   display: block;
   list-style-type: none;
-  color: gray;
+  color: rgb(233, 229, 229);
 }
 #nav-bar li {
 }
