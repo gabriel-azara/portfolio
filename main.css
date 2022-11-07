@@ -1,0 +1,9 @@
+body {
+  background-color: white;
+}
+#nav-bar {
+  display: block;
+  list-style-type: none;
+}
+#nav-bar li {
+}
